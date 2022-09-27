@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v.0-blue)
+![](https://img.shields.io/badge/version-v.1.0.0-blue)
 
 
 # Implémentation d'AES 128 sur un bloc de 16 octets
